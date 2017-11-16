@@ -1,0 +1,12 @@
+Bolt-1
+Bolt-2
+Screw-1
+Screw-2
+CoverCap-2
+CommutatorEndCover-2
+MainBraidedCable-1
+Housing-2
+Solenoid-2
+MountingScrew-1
+MountingScrew-5
+MountingScrew-6

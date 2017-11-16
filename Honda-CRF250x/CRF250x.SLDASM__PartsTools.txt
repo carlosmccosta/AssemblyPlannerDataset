@@ -1,0 +1,18 @@
+CamBolt -> 6 mm spanner
+CamChainLifter -> Universal gripper
+ClutchCasing -> Universal gripper
+ClutchCover -> Universal gripper
+CrankshaftCover -> Universal gripper
+CrankshaftHousing -> Universal gripper
+CylinderCasing -> Universal gripper
+CylinderHead -> Universal gripper
+EngineBolt -> 8 mm spanner
+IgnitionCapBolt -> 4 mm allen wrench
+IgnitionCover -> Universal gripper
+IgnitionPlug -> Universal gripper
+OilFillerCap -> Universal gripper
+OilFillerPlug -> Universal gripper
+RockerArmShaftCapBolt -> 4 mm allen wrench
+ValveCover -> Universal gripper
+ValveGasket -> Universal gripper
+WaterPumpCover -> Universal gripper
